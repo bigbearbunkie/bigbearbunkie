@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/bigbearbunkie/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Example](https://github.com/bigbearbunkie/osTicket-Life-Cycle-Examples/tree/main)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs (https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Proton VPN</b>
   - [VPN Setup and Usage](https://github.com/bigbearbunkie/VPN-Setup-and-Usage)
