@@ -10,3 +10,7 @@
   - [VPN Setup and Usage](https://github.com/bigbearbunkie/VPN-Setup-and-Usage)
 
 
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/ethan-r-851205158/
