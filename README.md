@@ -10,6 +10,7 @@
   - [VPN Setup and Usage](https://github.com/bigbearbunkie/VPN-Setup-and-Usage)
 - <b>Windows Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/bigbearbunkie/Preparing-AD-Infrastructure-in-Azure)
+  - [Deploying Active Directory](https://github.com/bigbearbunkie/Deploying-Active-Directory)
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
